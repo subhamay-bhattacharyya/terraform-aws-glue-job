@@ -1,0 +1,15 @@
+# Version 1.0.0
+
+Initial release of the Terraform AWS Glue Job module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 12-Nov-2024
+Updated: 13-Nov-2024 14:45
+Description: This module creates This module creates a Glue ETL Job using Terraform.
+
+
+## Features
+- Creates a Glue Job (Glue ETL / Python Shell).
+- Create a Glue Job of type Glue ETL / Python Shell.
+- The Glue script is pulled from a S3 bucket.
+- Tag the Glue ETL job.
